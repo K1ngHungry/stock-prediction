@@ -1,0 +1,20 @@
+# Ignore the dataset directory
+distilbert_finetuned/
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings/workspace files
+.vscode/
+*.code-workspace
